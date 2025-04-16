@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "262886806160",
+    "firebase_url": "https://ticketbooking-42dc4-default-rtdb.firebaseio.com",
+    "project_id": "ticketbooking-42dc4",
+    "storage_bucket": "ticketbooking-42dc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262886806160:android:acd7a75d1aff7722a9fe15",
+        "android_client_info": {
+          "package_name": "com.gresmer.ticketbooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXD-7SDO5ztbOL38Hq1bSWWz32aW5zj2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
