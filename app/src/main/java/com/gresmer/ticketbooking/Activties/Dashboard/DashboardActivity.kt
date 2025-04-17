@@ -36,8 +36,10 @@ fun MainScreen() {
         LazyColumn(
             modifier = Modifier
                 .fillMaxSize()
-                .padding(paddingValues=paddingValues)
+                .padding(paddingValues = paddingValues)
                 .background(color = colorResource(R.color.darkPurple2))
-        ) { }
+        ) {
+            item { TopBar() }
+        }
     }
 }
